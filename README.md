@@ -1,0 +1,1 @@
+https://angular.cn/docs/ts/latest/quickstart.html
